@@ -1,0 +1,9 @@
+{
+    "RESULT_ALL": "/root/projectNews/scripts/results/all",
+    "RESULT_DAILY": "/root/projectNews/scripts/results/daily-",
+    "dwh_database": "pajaknews",
+    "dwh_host": "207.148.xxx",
+    "dwh_password": "password",
+    "dwh_port": 3306,
+    "dwh_user": "admin"
+}

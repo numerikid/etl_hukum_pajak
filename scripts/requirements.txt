@@ -1,0 +1,6 @@
+apache-airflow
+Beautifulsoup4
+requests
+lxml
+mysql-connector
+pymysql
